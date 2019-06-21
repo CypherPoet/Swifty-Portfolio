@@ -5,6 +5,8 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 (You can also check out some of the [Web development-related stuff](https://github.com/BrianSipple) I've done if you really want to (But do you really want to? 😛)).
 
 
+</br>
+</br>
 
 # 📚Book Projects
 
@@ -15,6 +17,8 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 ## Advanced Apple Debugging & Reverse Engineering
 
 
+</br>
+</br>
 
 # 🎓 Courses
 
@@ -23,6 +27,8 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 
 
 
+</br>
+</br>
 
 # ⚡️ Production Apps
 
@@ -30,6 +36,8 @@ _These are apps that I personally designed, developed, and shipped_.
 
 
 
+</br>
+</br>
 
 # ⚗️ Miscellaneous Labs & Experiments
 
@@ -58,10 +66,17 @@ _Project to follow along with the Hacking with Swift [tutorial on refactoring ma
 _A basic app to demonstrate the iOS coordinator pattern -- including the usage of coordinators with a tab bar controller_.
 
 
+
+</br>
+</br>
+
 # ⚙️ Open-Source Contributing
 
 
 
+
+</br>
+</br>
 
 # ✍️ Writing
 
