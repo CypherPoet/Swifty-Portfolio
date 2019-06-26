@@ -12,9 +12,24 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 
 ## iOS Apprentice
 
-## App Development with Swift
+
+## [App Development with Swift](https://github.com/CypherPoet/book--app-development-with-swift)
+
+<div style="text-align: left;">
+  <img src="./assets/images/app-development-with-swift.png" width="200px"/>
+</div>
+
+_Projects, playgrounds, and notes made while following along with Apple's book "App Development With Swift"._
+
+
+## Pro Swift
+
+
+## Swift Design Patterns
+
 
 ## Advanced Apple Debugging & Reverse Engineering
+
 
 
 </br>
@@ -23,6 +38,21 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 # 🎓 Courses
 
 ## 100 Days of Swift / Hacking with Swift
+
+
+## [The Ultimate Course to Making Professional iOS Apps](https://github.com/CypherPoet/WalletKeeper)
+
+<div style="text-align: left;">
+  <img src="./assets/images/ultimate-course-to-ios-development.gif" width="300px"/>
+</div>
+
+_A course by [@matteom](https://github.com/matteom) that goes from design to the implementation of a fully functioning app &mdash; focusing heavily on best practices for architecture that are commonly missed_.
+
+
+
+For this course, I built a basic "WalletKeeper" app that allowed users to register different Bitcoin wallets and add transactions to them.
+
+I used it as an opportunity to explore building a navigation flow with coordinators, and designing view controllers to be composed through dependency injection so they weren't directly concerned with initializing things like table view data sources, model controllers, state controllers, view models, etc.
 
 
 
@@ -39,9 +69,9 @@ _These are apps that I personally designed, developed, and shipped_.
 </br>
 </br>
 
-# ⚗️ Miscellaneous Labs & Experiments
+# ⚗️ Miscellaneous Labs, Projects, & Experiments
 
-## Swift Extension Vault
+## Swift Reusable Vault
 
 _A collection of personal extensions that I've found to be highly reusable across projects_.
 
