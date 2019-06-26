@@ -22,10 +22,27 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 _Projects, playgrounds, and notes made while following along with Apple's book "App Development With Swift"._
 
 
+
 ## Pro Swift
+
+<div style="text-align: left;">
+  <img src="./assets/images/pro-swift.png" width="200px"/>
+</div>
+
+_Projects, playgrounds, and notes made while following along with Paul Hudson's book [Swift Design Patterns](https://www.hackingwithswift.com/store/swift-design-patterns)._
+
 
 
 ## Swift Design Patterns
+
+<div style="text-align: left;">
+  <img src="./assets/images/swift-design-patterns.png" width="200px"/>
+</div>
+
+_Projects, playgrounds, and notes made while following along with Paul Hudson's book [Swift Design Patterns](https://www.hackingwithswift.com/store/swift-design-patterns)._
+
+
+
 
 
 ## Advanced Apple Debugging & Reverse Engineering
