@@ -34,7 +34,7 @@ _Projects make while following along with the Ray Wenderlich book, [iOS Apprenti
 
 
 
-## Pro Swift
+## [Pro Swift](https://github.com/CypherPoet/book--pro-swift)
 
 <div style="text-align: left;">
   <img src="./assets/images/pro-swift.png" width="200px"/>
@@ -47,7 +47,7 @@ _Projects, playgrounds, and notes made while following along with Paul Hudson's 
 
 
 
-## Swift Design Patterns
+## [Swift Design Patterns](https://github.com/CypherPoet/book--swift-design-patterns)
 
 <div style="text-align: left;">
   <img src="./assets/images/swift-design-patterns.png" width="200px"/>
@@ -59,7 +59,7 @@ _Projects, playgrounds, and notes made while following along with Paul Hudson's 
 
 
 
-## [Ray Wenderlich: Concurrency by Tutorials](https://store.raywenderlich.com/products/concurrency-by-tutorials)
+## [Ray Wenderlich: Concurrency by Tutorials](https://github.com/CypherPoet/book--concurrency-by-tutorials)
 
 
 <div style="text-align: left;">
@@ -72,7 +72,7 @@ _Projects, playgrounds, and other materials made while following along with the 
 
 
 
-## Advanced iOS: Volume 1 (Personally extended with SwiftUI ⚡️)
+## Advanced iOS: Volume 1 (Customized by integrating with SwiftUI ⚡️)
 
 <div style="text-align: left;">
   <img src="" width="200px"/>
