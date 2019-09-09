@@ -8,7 +8,21 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 </br>
 </br>
 
-# 📚 Books and Courses
+
+# ⚡️ Production Apps
+
+_These are apps that I personally designed, developed, and shipped_.
+
+
+
+
+
+</br>
+</br>
+
+
+
+# 📚 Books
 
 ## [App Development with Swift](https://github.com/CypherPoet/book--app-development-with-swift)
 
@@ -150,16 +164,7 @@ I used it as an opportunity to explore building a navigation flow with coordinat
 </br>
 </br>
 
-# ⚡️ Production Apps
 
-_These are apps that I personally designed, developed, and shipped_.
-
-
-
-
-
-</br>
-</br>
 
 # ⚗️ Miscellaneous Labs, Projects, & Experiments
 
@@ -209,6 +214,6 @@ _My own personal blog on Swift and Apple-platforms development_.
 
 
 
-# Buzzword Bingo
+# 🐝 Buzzword Bingo
 
 _If you really just want to see whether or not I can help with a certain technology, library, or set of Apple frameworks,
