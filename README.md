@@ -112,14 +112,15 @@ Haters gonna hate, but personally, I love Core Data. Using this book to dive dee
 
 
 
-## [Flight School: Codable]
+## [Flight School: Codable](repo-link)
+
+_Projects, playgrounds, and notes made while following along with the [Flight School](https://flight.school) book [Codable](https://flight.school/books/codable/)._
 
 
 
+</br>
 
-
-
-## Advanced Apple Debugging & Reverse Engineering
+## [Ray Wenderlich: Advanced Apple Debugging & Reverse Engineering](repo-link)
 
 
 
@@ -143,28 +144,37 @@ In particular, I [extended the Core Data project](https://github.com/CypherPoet/
 
 </br>
 
+
 ## [The Ultimate Course to Making Professional iOS Apps](https://github.com/CypherPoet/WalletKeeper)
 
 <div style="text-align: left;">
-  <img src="./assets/images/ultimate-course-to-ios-development.gif" width="300px"/>
+  <img src="./assets/images/ultimate-course-to-ios-development.gif" width="280px"/>
 </div>
 
 _A course by [@matteom](https://github.com/matteom) that goes from design to the implementation of a fully functioning app &mdash; focusing heavily on best practices for architecture that are commonly missed_.
-
 
 
 For this course, I built a basic "WalletKeeper" app that allowed users to register different Bitcoin wallets and add transactions to them.
 
 I used it as an opportunity to explore building a navigation flow with coordinators, and designing view controllers to be composed through dependency injection so they weren't directly concerned with initializing things like table view data sources, model controllers, state controllers, view models, etc.
 
+</br>
+
+
+## [Mark Moeykens Itinerary App Course](https://github.com/CypherPoet/course--itinerary-app)
+
+
+<div style="text-align: left;">
+  <img src="./assets/recordings/itinerary-app-1.gif" width="280px"/>
+</div>
+
+_An app made while following along with Mark Moeykens' [End-to-end iOS App Course](https://www.youtube.com/watch?v=J0sho1ix-Sw&list=PLHDMmeIMXj8UV9xqF7Mr2Puh8xehDCy-O)._
 
 
 
 
 </br>
 </br>
-
-
 
 # ⚗️ Miscellaneous Labs, Projects, & Experiments
 
@@ -173,10 +183,15 @@ I used it as an opportunity to explore building a navigation flow with coordinat
 _A collection of personal extensions that I've found to be highly reusable across projects_.
 
 
+</br>
+
 ## SwiftUI Lab
 
 _I started experimenting with SwiftUI and Combine after they were announced at WWDC 2019 and I've been having a blast since. Given that they're only supported on iOS 13 and up, I'm patient about using it for everything 🙂 &mdash; but I'm continuously looking for ways I can integrate it into new projects._
 
+
+
+</br>
 
 ## [Refactoring Massive View Controllers](https://github.com/CypherPoet/refactoring-massive-view-controllers)
 
@@ -191,6 +206,8 @@ _A basic app to demonstrate the iOS coordinator pattern -- including the usage o
 
 </br>
 </br>
+
+
 
 
 # ⚙️ Open-Source Contributing
@@ -213,6 +230,9 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 _My own personal blog on Swift and Apple-platforms development_.
 
 
+
+</br>
+</br>
 
 # 🐝 Buzzword Bingo
 
