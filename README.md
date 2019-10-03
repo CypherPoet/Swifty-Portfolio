@@ -163,7 +163,6 @@ I used it as an opportunity to explore building a navigation flow with coordinat
 
 ## [Mark Moeykens Itinerary App Course](https://github.com/CypherPoet/course--itinerary-app)
 
-
 <div style="text-align: left;">
   <img src="./assets/recordings/itinerary-app-1.gif" width="280px"/>
 </div>
@@ -173,8 +172,22 @@ _An app made while following along with Mark Moeykens' [End-to-end iOS App Cours
 
 
 
+
 </br>
 </br>
+
+## [Design+Code: Learning SwiftUI](https://github.com/CypherPoet/course--design-code-learn-swiftui) <a><img src="./assets/badges/SwiftUI Badge.svg" width="80px" /></a>
+
+<div style="text-align: left;">
+  <img src="./assets/recordings/design-code-course-1.gif" width="280px"/>
+</div>
+
+
+
+
+</br>
+</br>
+
 
 # ⚗️ Miscellaneous Labs, Projects, & Experiments
 
