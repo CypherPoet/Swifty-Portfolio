@@ -1,11 +1,14 @@
 # Swifty Portfolio
 
-_A handy portfolio of endeavors that have been the substrate for my skillz as a Swift/iOS/Apple-platforms engineer_.
+Almost two years ago, after 5+ years [in Web Development](https://github.com/BrianSipple), I made the leap into Swift and Apple-platforms development.
 
-(You can also check out some of the [Web development-related stuff](https://github.com/BrianSipple) I've done if you really want to (But do you really want to? 😛)).
+This repo is meant to showcase the endeavors that comprise the substrate of those skillz (so far).
+
+If you're looking for an experienced, **remote-based** software engineer who's been diving deep into SwiftUI, Combine, and iOS 13 since WWDC (and who welcomes being paid in Bitcoin 🙂), please feel free to [reach out](mailto:CypherPoet@gmail.com) ✌️.
 
 
 </br>
+
 
 
 # ⚡️ Production Apps
