@@ -6,23 +6,25 @@ _A handy portfolio of endeavors that have been the substrate for my skillz as a 
 
 
 </br>
-</br>
 
 
 # ⚡️ Production Apps
 
 _These are apps that I personally designed, developed, and shipped_.
 
-- [Satoshi VS](https://cypherpoet.github.io/SatoshiVS-iOS/)
-    - Built with SwiftUI to visualize the value of Satoshis against a wide selection of other currencies.
-      <div>
-        <img src="./assets/recordings/satoshi-vs-preview.gif" width="400px">
-      </div>
+## [Satoshi VS](https://cypherpoet.github.io/SatoshiVS-iOS/)
+
+Built with SwiftUI to visualize the value of Satoshis against a wide selection of other currencies.
+
+<div>
+  <img src="./assets/recordings/satoshi-vs-preview.gif" width="400px">
+</div>
 
 
 
 </br>
 </br>
+
 
 
 
@@ -50,6 +52,10 @@ _Projects, playgrounds, and notes made while following along with various books.
 -->
 
 
+</br>
+</br>
+
+
 
 
 # 🎓 Courses
@@ -68,11 +74,16 @@ _Projects, playgrounds, and notes made while following along with various course
 </br>
 
 
+
+
 # ⚗️ Miscellaneous Labs, Projects, & Experiments
 
 - [SwiftUI Lab Blog Posts](https://github.com/CypherPoet/blog--swiftui-lab)
 - [Refactoring Massive View Controllers](https://github.com/CypherPoet/refactoring-massive-view-controllers)
 - [Learning Coordinators](https://github.com/CypherPoet/LearningCoordinators)
+
+</br>
+</br>
 
 
 
@@ -88,6 +99,8 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 
 </br>
 </br>
+
+
 
 # ✍️ Writing
 
