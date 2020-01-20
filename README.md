@@ -97,6 +97,8 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 - [Zap iOS](https://github.com/LN-Zap/zap-iOS): A Native iOS Lightning wallet focused on user experience and ease of use ⚡️.
   + More about [Zap](http://zap.jackmallers.com/).
 
+- [Charmed Dark](https://github.com/CypherPoet/charmed-dark-xcode-theme): A charming dark theme for Xcode.
+
 
 
 
