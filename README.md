@@ -2,7 +2,7 @@
 
 Almost two years ago, after 5+ years [in Web Development](https://github.com/BrianSipple), I made the leap into Swift and Apple-platforms development.
 
-This repo is meant to showcase the endeavors that comprise the substrate of those skillz (so far).
+This repo is meant to showcase the substrates of those skillz (so far).
 
 If you're looking for an experienced, **remote-based** software engineer who's been diving deep into SwiftUI, Combine, and iOS 13 since WWDC (and who welcomes being paid in Bitcoin 🙂), please feel free to [reach out](mailto:CypherPoet@gmail.com) ✌️.
 
