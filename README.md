@@ -112,3 +112,8 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 ## [The Swiftness](https://theswiftness.com)
 
 _My own personal blog on Swift and Apple-platforms development_.
+
+## [Twitter](https://twitter.com/cypher_poet)
+
+I don't always tweet, but when I do, [Swift & SwiftUI are common topics](https://twitter.com/search?q=(SwiftUI%20OR%20Swift)%20(%23SwiftUI%20OR%20%23Swift%20OR%20%23Combine%20OR%20%23iOS%20OR%20%23SwiftDev%20OR%20%23iOSDev)%20(from%3ACypher_Poet)&src=typed_query&f=live).
+
