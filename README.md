@@ -31,7 +31,7 @@ Built with SwiftUI to visualize the value of Satoshis against a wide selection o
 
 
 
-# 📚 Books
+# 📚 Code Repos from Books
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various books._
 
@@ -61,7 +61,7 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 
 
 
-# 🎓 Courses
+# 🎓 Code Repos from Courses
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various courses._
 
