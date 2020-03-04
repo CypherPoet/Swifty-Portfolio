@@ -30,14 +30,28 @@ Built with SwiftUI to visualize the value of Satoshis against a wide selection o
 
 
 
+# 🎓 Code Repos from Courses
+
+_GitHub repositories for projects, playgrounds, and notes made while following along with various courses._
+
+- [100 Days of SwiftUI](https://github.com/CypherPoet/100-days-of-swiftui)
+  - Throughout this course, I was really able to refine the way I architect SwiftUI/Combine apps with Redux-style data flows alongside MVVM-style ObservableObjects for views.
+- [100 Days of Swift](https://github.com/CypherPoet/100-days-of-swift)
+  - Similar to 100 Days of SwiftUI, but for UIKit, as the course progressed, I continued refining the way I architect apps with Coordinator-based data flows alongside MVVM-style ViewModels and model controllers for views.
+- [Mark Moeykens Itinerary App Course](https://github.com/CypherPoet/course--itinerary-app)
+- [Design+Code: Learning SwiftUI](https://github.com/CypherPoet/course--design-code-learn-swiftui)
+
+
+
+</br>
+</br>
+
 
 # 📚 Code Repos from Books
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various books._
 
 
-- [App Development with Swift](https://github.com/CypherPoet/book--app-development-with-swift)
-- [Ray Wenderlich: iOS Apprentice](https://github.com/CypherPoet/book--iOS-apprentice)
 - [Ray Wenderlich: SwiftUI By Tutorials](https://github.com/CypherPoet/book--swiftui-by-tutorials)
 - [Ray Wenderlich: Combine: Asynchronous Programming with Swift](https://github.com/CypherPoet/book--combine-asynchronous-programming-with-swift)
 - [Ray Wenderlich: Concurrency by Tutorials](https://github.com/CypherPoet/book--concurrency-by-tutorials)
@@ -45,7 +59,8 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 - [Flight School: Numbers](https://github.com/CypherPoet/book--flight-school-numbers)
 - [Pro Swift](https://github.com/CypherPoet/book--pro-swift)
 - [Swift Design Patterns](https://www.hackingwithswift.com/store/swift-design-patterns)
-
+- [App Development with Swift](https://github.com/CypherPoet/book--app-development-with-swift)
+- [Ray Wenderlich: iOS Apprentice](https://github.com/CypherPoet/book--iOS-apprentice)
 
 
 <!--
@@ -58,23 +73,6 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 </br>
 </br>
 
-
-
-
-# 🎓 Code Repos from Courses
-
-_GitHub repositories for projects, playgrounds, and notes made while following along with various courses._
-
-
-- [Hacking with Swift](https://github.com/CypherPoet/book--hacking-with-swift) / [100 Days of Swift](https://github.com/CypherPoet/100-days-of-swift)
-- [100 Days of SwiftUI](https://github.com/CypherPoet/100-days-of-swiftui)
-- [Mark Moeykens Itinerary App Course](https://github.com/CypherPoet/course--itinerary-app)
-- [Design+Code: Learning SwiftUI](https://github.com/CypherPoet/course--design-code-learn-swiftui)
-
-
-
-</br>
-</br>
 
 
 
