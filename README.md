@@ -64,16 +64,9 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 - [Ray Wenderlich: iOS Apprentice](https://github.com/CypherPoet/book--iOS-apprentice)
 
 
-<!--
-## Advanced iOS: Volume 1 (Customized by integrating with SwiftUI ⚡️)
-## [Ray Wenderlich: Core Data by Tutorials](https://store.raywenderlich.com/products/core-data-by-tutorials)
-## [Ray Wenderlich: Advanced Apple Debugging & Reverse Engineering](repo-link)
--->
-
 
 </br>
 </br>
-
 
 
 
