@@ -55,6 +55,7 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 - [Ray Wenderlich: SwiftUI By Tutorials](https://github.com/CypherPoet/book--swiftui-by-tutorials)
 - [Ray Wenderlich: Combine: Asynchronous Programming with Swift](https://github.com/CypherPoet/book--combine-asynchronous-programming-with-swift)
 - [Ray Wenderlich: Concurrency by Tutorials](https://github.com/CypherPoet/book--concurrency-by-tutorials)
+- [SwiftUI Animations Mastery](https://github.com/CypherPoet/book--swiftui-animations-mastery)
 - [Flight School: Codable](https://github.com/CypherPoet/book--flight-school-codable)
 - [Flight School: Numbers](https://github.com/CypherPoet/book--flight-school-numbers)
 - [Pro Swift](https://github.com/CypherPoet/book--pro-swift)
