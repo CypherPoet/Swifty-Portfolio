@@ -97,6 +97,9 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 
 - [Charmed Dark](https://github.com/CypherPoet/charmed-dark-xcode-theme): A charming dark theme for Xcode.
 
+- [CypherPoetSwiftUIKit](https://github.com/CypherPoet/CypherPoetSwiftUIKit): A collection of some personal utilities that I use for building SwiftUI applications.
+
+- [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
 
 
 
