@@ -100,6 +100,8 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 
 - [CypherPoetSwiftUIKit](https://github.com/CypherPoet/CypherPoetSwiftUIKit): A collection of some personal utilities that I use for building SwiftUI applications.
 
+- [CypherPoetNetStack](https://github.com/CypherPoet/CypherPoetNetStack): A Combine-based networking stack for modern iOS projects.
+
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
 
 
