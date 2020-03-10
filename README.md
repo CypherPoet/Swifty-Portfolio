@@ -84,10 +84,12 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 
 # ⚙️ Open-Source Contributing
 
-_Some open-source Swift/iOS projects that I currently contribute to &mdash; or have contributed to in the past._
+_Some open-source Swift/iOS projects that I currently maintain and/or contribute to (or have done so in the past)._
 
-- [Zap iOS](https://github.com/LN-Zap/zap-iOS): A Native iOS Lightning wallet focused on user experience and ease of use ⚡️.
-  + More about [Zap](http://zap.jackmallers.com/).
+
+## Ownership
+
+- [Animatable Gradient](https://github.com/CypherPoet/AnimatableGradient): A set of SwiftUI View Modifiers for animating gradients in views and shapes.
 
 - [Charmed Dark](https://github.com/CypherPoet/charmed-dark-xcode-theme): A charming dark theme for Xcode.
 
@@ -97,6 +99,11 @@ _Some open-source Swift/iOS projects that I currently contribute to &mdash; or h
 
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
 
+
+## Contributions
+
+- [Zap iOS](https://github.com/LN-Zap/zap-iOS): A Native iOS Lightning wallet focused on user experience and ease of use ⚡️.
+  + More about [Zap](http://zap.jackmallers.com/).
 
 
 </br>
