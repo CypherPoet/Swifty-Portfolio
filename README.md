@@ -30,7 +30,7 @@ Built with SwiftUI to visualize the value of Satoshis against a wide selection o
 
 
 
-# 🎓 Code Repos from Courses
+# 🎓 Projects and Code from Courses
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various courses._
 
@@ -47,7 +47,7 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 </br>
 
 
-# 📚 Code Repos from Books
+# 📚 Projects and Code from Books
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various books._
 
@@ -98,12 +98,6 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 - [CypherPoetNetStack](https://github.com/CypherPoet/CypherPoetNetStack): A Combine-based networking stack for modern iOS projects.
 
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
-
-
-## Contributions
-
-- [Zap iOS](https://github.com/LN-Zap/zap-iOS): A Native iOS Lightning wallet focused on user experience and ease of use ⚡️.
-  + More about [Zap](http://zap.jackmallers.com/).
 
 
 </br>
