@@ -6,9 +6,12 @@ This repo is meant to showcase the substrates of those skillz (so far).
 
 If you're looking for an experienced, **remote-based** software engineer who's been diving deep into SwiftUI, Combine, and iOS 13 since WWDC (and who welcomes being paid in Bitcoin 🙂), please feel free to [reach out](mailto:CypherPoet@gmail.com) ✌️.
 
+
 <details>
 <summary>Bonus 🎁</summary>
-As someone who also does graphic design and UI/UX design, I can be integrated with any of those needs as well.
+</br>
+
+As someone who also [does graphic design and UI\/UX design](https://dribbble.com/cypherpoet), I can be integrated with any of those needs as well.
 </details>
 
 </br>
