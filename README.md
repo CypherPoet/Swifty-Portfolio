@@ -1,17 +1,21 @@
 # Swifty Portfolio
 
-Almost two years ago, after 5+ years [in Web Development](https://github.com/BrianSipple), I made the leap into Swift and Apple-platforms development.
+A few years ago, after 5+ years [in Web Development](https://github.com/BrianSipple), I made the leap into Swift and Apple-platforms development.
 
 This repo is meant to showcase the substrates of those skillz (so far).
 
-If you're looking for an experienced, **remote-based** software engineer who's been diving deep into SwiftUI, Combine, and iOS 13 since WWDC (and who welcomes being paid in Bitcoin 🙂), please feel free to [reach out](mailto:CypherPoet@gmail.com) ✌️.
+If you're looking for an experienced, remote-based, entrepreneurial software engineer who's been diving deep into SwiftUI and Combine since they were released, and freelancing with a number of iOS and React Native development teams over the past few years (and who welcomes being paid in Bitcoin 🙂), please feel free to [reach out](mailto:CypherPoet@gmail.com) ✌️.
 
 
 <details>
 <summary>Bonus 🎁</summary>
 </br>
 
-As someone who also [does graphic design and UI\/UX design](https://dribbble.com/cypherpoet), I can be integrated with any of those needs as well.
+As someone who also [does graphic art and UI\/UX design](https://dribbble.com/cypherpoet), I can be integrated with any of those needs as well.
+
+- [Dribbble](https://dribbble.com/cypherpoet)
+- [Behance](https://www.behance.net/cypherpoet)
+- [Instagram](https://www.instagram.com/cypherpoet/)
 </details>
 
 </br>
@@ -76,19 +80,6 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 </br>
 
 
-
-
-# ⚗️ Miscellaneous Labs, Projects, & Experiments
-
-- [SwiftUI Lab Blog Posts](https://github.com/CypherPoet/blog--swiftui-lab)
-- [Refactoring Massive View Controllers](https://github.com/CypherPoet/refactoring-massive-view-controllers)
-- [Learning Coordinators](https://github.com/CypherPoet/LearningCoordinators)
-
-</br>
-</br>
-
-
-
 # ⚙️ Open-Source Contributing
 
 _Some open-source Swift/iOS projects that I currently maintain and/or contribute to (or have done so in the past)._
@@ -106,6 +97,16 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
 
+
+</br>
+</br>
+
+
+# ⚗️ Miscellaneous Labs, Projects, & Experiments
+
+- [SwiftUI Lab Blog Posts](https://github.com/CypherPoet/blog--swiftui-lab)
+- [Refactoring Massive View Controllers](https://github.com/CypherPoet/refactoring-massive-view-controllers)
+- [Learning Coordinators](https://github.com/CypherPoet/LearningCoordinators)
 
 </br>
 </br>
