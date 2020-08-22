@@ -87,9 +87,13 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 
 ## Ownership
 
-- [Animatable Gradient](https://github.com/CypherPoet/AnimatableGradient): A set of SwiftUI View Modifiers for animating gradients in views and shapes.
+- [SwiftUI Animatable Gradient](https://github.com/CypherPoet/AnimatableGradient): A set of SwiftUI View Modifiers for animating gradients in views and shapes.
 
 - [Charmed Dark](https://github.com/CypherPoet/charmed-dark-xcode-theme): A charming dark theme for Xcode.
+
+- [SwiftUI Polygon](https://github.com/CypherPoet/SwiftUIPolygon): An animatable SwiftUI Polygon Shape with support for mesh rendering.
+
+- [CypherPoetReduxUtils](https://github.com/CypherPoet/CypherPoetReduxUtils): A collection utilities for architecting SwiftUI apps in the Redux/Elm style of Reducers, Actions, Side Effects and Middlewares.
 
 - [CypherPoetSwiftUIKit](https://github.com/CypherPoet/CypherPoetSwiftUIKit): A collection of some personal utilities that I use for building SwiftUI applications.
 
