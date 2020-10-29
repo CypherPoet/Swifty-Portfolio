@@ -93,6 +93,7 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 
 - [SwiftUI Polygon](https://github.com/CypherPoet/SwiftUIPolygon): An animatable SwiftUI Polygon Shape with support for mesh rendering.
 
+
 - [CypherPoetReduxUtils](https://github.com/CypherPoet/CypherPoetReduxUtils): A collection utilities for architecting SwiftUI apps in the Redux/Elm style of Reducers, Actions, Side Effects and Middlewares.
 
 - [CypherPoetSwiftUIKit](https://github.com/CypherPoet/CypherPoetSwiftUIKit): A collection of some personal utilities that I use for building SwiftUI applications.
@@ -100,6 +101,8 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 - [CypherPoetNetStack](https://github.com/CypherPoet/CypherPoetNetStack): A Combine-based networking stack for modern iOS projects.
 
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
+
+- [Modulus Operandi](https://github.com/CypherPoet/ModulusOperandi): Declarative modular arithmetic for Swift Integers and Floating-Point types that supports Euclidean, flooring, and truncating division algorithms.
 
 
 </br>
