@@ -11,7 +11,7 @@ If you're looking for an experienced, remote-based, entrepreneurial software eng
 <summary>Bonus 🎁</summary>
 </br>
 
-As someone who also [does graphic art and UI\/UX design](https://dribbble.com/cypherpoet), I can be integrated with any of those needs as well.
+As someone who also [does graphic art and UI\/UX design](https://linktr.ee/CypherPoet), I can be integrated with any of those needs as well.
 
 - [Dribbble](https://dribbble.com/cypherpoet)
 - [Behance](https://www.behance.net/cypherpoet)
@@ -45,13 +45,13 @@ Built with SwiftUI to visualize the value of Satoshis against a wide selection o
 
 _GitHub repositories for projects, playgrounds, and notes made while following along with various courses._
 
-- [100 Days of SwiftUI](https://github.com/CypherPoet/100-days-of-swiftui)
+- [100 Days of SwiftUI & Combine](https://github.com/CypherPoet/100-days-of-swiftui)
   - Throughout this course, I was really able to refine the way I architect SwiftUI/Combine apps with Redux-style data flows alongside MVVM-style ObservableObjects for views.
 - [100 Days of Swift](https://github.com/CypherPoet/100-days-of-swift)
   - Similar to 100 Days of SwiftUI, but for UIKit, as the course progressed, I continued refining the way I architect apps with Coordinator-based data flows alongside MVVM-style ViewModels and model controllers for views.
 - [Mark Moeykens Itinerary App Course](https://github.com/CypherPoet/course--itinerary-app)
 - [Design+Code: Learning SwiftUI](https://github.com/CypherPoet/course--design-code-learn-swiftui)
-
+<!-- - [SwiftUI Masterclass Course](https://github.com/CypherPoet/course--swiftui-masterclass) -->
 
 
 </br>
@@ -75,7 +75,6 @@ _GitHub repositories for projects, playgrounds, and notes made while following a
 - [Ray Wenderlich: iOS Apprentice](https://github.com/CypherPoet/book--iOS-apprentice)
 
 
-
 </br>
 </br>
 
@@ -93,12 +92,11 @@ _Some open-source Swift/iOS projects that I currently maintain and/or contribute
 
 - [SwiftUI Polygon](https://github.com/CypherPoet/SwiftUIPolygon): An animatable SwiftUI Polygon Shape with support for mesh rendering.
 
-
 - [CypherPoetReduxUtils](https://github.com/CypherPoet/CypherPoetReduxUtils): A collection utilities for architecting SwiftUI apps in the Redux/Elm style of Reducers, Actions, Side Effects and Middlewares.
 
-- [CypherPoetSwiftUIKit](https://github.com/CypherPoet/CypherPoetSwiftUIKit): A collection of some personal utilities that I use for building SwiftUI applications.
+- [SwiftUIStarterKit](https://github.com/CypherPoet/SwiftUIStarterKit): A collection of some personal utilities that I use for building SwiftUI applications.
 
-- [CypherPoetNetStack](https://github.com/CypherPoet/CypherPoetNetStack): A Combine-based networking stack for modern iOS projects.
+- [SwiftUIPreviewUtils](https://github.com/CypherPoet/SwiftUIPreviewUtils): Starter utilities for using Xcode previews in SwiftUI projects.
 
 - [CypherPoetCoreDataKit](https://github.com/CypherPoet/CypherPoetCoreDataKit): A collection of some personal utilities that I use for building Core Data applications.
 
