@@ -1,6 +1,6 @@
 # Swifty Portfolio
 
-A few years ago, after 5+ years [in Web Development](https://github.com/BrianSipple), I made the leap into Swift and Apple-platforms development.
+A few years ago, after 5+ years of Web Development, I made the leap into Swift and Apple-platforms development.
 
 This repo is meant to showcase the substrates of those skillz (so far).
 
